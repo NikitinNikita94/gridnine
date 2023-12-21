@@ -1,4 +1,4 @@
-package com.gridnine.entity;
+package com.gridnine.testing.entity;
 
 import java.util.List;
 import java.util.stream.Collectors;

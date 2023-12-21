@@ -1,8 +1,8 @@
-package com.gridnine;
+package com.gridnine.testing;
 
-import com.gridnine.dao.FlightBuilder;
-import com.gridnine.entity.Flight;
-import com.gridnine.service.FlightFilterBuilderImpl;
+import com.gridnine.testing.dao.FlightBuilder;
+import com.gridnine.testing.entity.Flight;
+import com.gridnine.testing.service.FlightFilterBuilderImpl;
 
 import java.util.List;
 

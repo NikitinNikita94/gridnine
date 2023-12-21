@@ -1,7 +1,7 @@
-package com.gridnine.service;
+package com.gridnine.testing.service;
 
-import com.gridnine.entity.Flight;
-import com.gridnine.entity.Segment;
+import com.gridnine.testing.entity.Flight;
+import com.gridnine.testing.entity.Segment;
 
 import java.time.Duration;
 import java.time.LocalDateTime;

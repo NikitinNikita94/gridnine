@@ -1,6 +1,6 @@
-package com.gridnine.service;
+package com.gridnine.testing.service;
 
-import com.gridnine.entity.Flight;
+import com.gridnine.testing.entity.Flight;
 
 import java.util.List;
 

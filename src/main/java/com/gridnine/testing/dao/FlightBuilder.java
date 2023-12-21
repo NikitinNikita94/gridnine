@@ -1,7 +1,7 @@
-package com.gridnine.dao;
+package com.gridnine.testing.dao;
 
-import com.gridnine.entity.Flight;
-import com.gridnine.entity.Segment;
+import com.gridnine.testing.entity.Flight;
+import com.gridnine.testing.entity.Segment;
 
 import java.time.LocalDateTime;
 import java.util.ArrayList;
